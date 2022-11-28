@@ -11,6 +11,7 @@ https://sparkbyexamples.com/pandas/pandas-drop-rows-with-nan-values-in-dataframe
 
 https://seaborn.pydata.org/
 
+https://python-visualization.github.io/folium/plugins.html
 Los dataframes que usamos en este caso estan adjuntados en el colab y en el mismo github
 
 ## 3- ¿Cuáles fueron tus metas para tu entendimiento del proyecto?
