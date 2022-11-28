@@ -24,4 +24,5 @@ Tomamos en cuenta la ubicacion de los tipos de hospitales, helipuertos, coordena
 Descubrimos una mediante a la regresion lineal una relacion directa entre hospitales que tienen helipuerto y hospitales donde hay una tasa de mortalidad mas baja.
 
 # Conclusion : Rey
-Descubrimos que mas del 70% de los hospitales son generales y que de esta forma podemos darnos cuenta que para algunas zonas 
+Descubrimos que mas del 70% de los hospitales son generales y que de esta forma reflejamos que para algunas zonas se pueden implementar o mejorar areas de oporunidad.
+Nosotros como BIs podemos ayudar a los hospitales a las tomas de decisiones, y tambien como todos saben, los hospitales tienen como finalidad ayudar a la gente. Por lo que nosotros estariamos mejorando e inclusive evolucionando la industria hospitalaria con datos.
