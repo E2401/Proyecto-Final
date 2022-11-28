@@ -1,5 +1,5 @@
 # Datos Hospitales
-Hicimos un analysis exploratorio de una base de datos de los todos los hospitales de estados unidos.
+Hicimos un analisis exploratorio de una base de datos de los todos los hospitales de estados unidos.
 
 ## 1- ¿Cuál fue el motivo de elegir tu base de datos?
 Elegimos esta base de datos ya que en un futuro nos gustaria especializarnos en el área de hospitales y sentimos con esto nos podemos dar una idea de lo que podemos hacer en un futuro como alaistas de datos.
