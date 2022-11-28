@@ -1,14 +1,23 @@
-# Datos Hospiales
+# Datos Hospitales
 Hicimos un analysis exploratorio de una base de datos de los todos los hospitales de estados unidos.
 
-#(1) ¿Cuál fue el motivo de elegir tu base de datos?
+## 1- ¿Cuál fue el motivo de elegir tu base de datos?
+Elegimos esta base de datos ya que en un futuro nos gustaria especializarnos en el área de hospitales y sentimos con esto nos podemos dar una idea de lo que podemos hacer en un futuro como alaistas de datos.
 
-#(2) ¿Cuáles fueron tus fuentes para desarrollar el proyecto?
+## 2- ¿Cuáles fueron tus fuentes para desarrollar el proyecto?
+https://stackoverflow.com/questions/44505738/pandas-adding-columns-matching-on-index
 
-#(3) ¿Cuáles fueron tus metas para tu entendimiento del proyecto?
+https://sparkbyexamples.com/pandas/pandas-drop-rows-with-nan-values-in-dataframe/#:~:text=By%20using%20dropna()%20method,you%20should%20use%20inplace%3DTrue%20.
 
-#(4) ¿Qué elementos representativos tomaste en cuenta, esto es cuáles fueron tus variables?
+https://seaborn.pydata.org/
 
+Los dataframes que usamos en este caso estan adjuntados en el colab y en el mismo github
+
+## 3- ¿Cuáles fueron tus metas para tu entendimiento del proyecto?
+Nos gustaría evolucionar la industria de los hospitales por medio insights, predicciones y una estructura que se pueda manipular.
+
+## 4- ¿Qué elementos representativos tomaste en cuenta, esto es cuáles fueron tus variables?
+Tomamos en cuenta la ubicacion de los tipos de hospitales, helipuertos, coordenadas, tasas de mortalidad, hospitales, 
 
 
 # Concusion : Emilio
